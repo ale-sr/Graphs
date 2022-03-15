@@ -1,22 +1,3 @@
-# Algoritmos y Estructura de Datos
-## Proyecto sobre Grafos
---------
-
-## Integrantes ✒️
-
-- Luis Gutiérrez [Luis-ntonio] Participación: 100%
-- Marcos Ayala [Marcos-1001] Participación: 100%
-- Alexandra Shulca [Alexandra-SR] Participación: 100%
-
-## Profesor 🦾
-
-- Heider Sanchez Enriquez
-
-## Asistentes de docencia
-- Paolo Morey Tutiven
-- Jorge Castillo Migone
-
-----
 
 ## Objetivos Principales :dart:
 
